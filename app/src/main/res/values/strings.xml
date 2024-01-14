@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckMate</string>
+    <string name="app_desc">Your personal To-Do list</string>
+    <string name="app_pic">CheckMate</string>
+    <string name="app_date">Coming soon</string>
+    <string name="app_site">www.checkmate.com</string>
+</resources>
